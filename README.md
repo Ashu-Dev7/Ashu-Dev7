@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋 I'm Ashutosh Mishra</h1>
 <h3 align="center">Tech Enthusiast from India</h3>
-<img align="right" alt="Coding" width="400" src="https://mir-s3-cdn-cf.behance.net/project_modules/hd/06f21a161921919.63cd7887d0a70.gif">
+<img align="right" alt="Coding" width="400" src="https://glasscodetech.com/img/Aboutus.gif">
 
 <p align="center">
   🌱 Currently learning <strong>React</strong><br>

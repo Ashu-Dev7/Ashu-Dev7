@@ -3,7 +3,7 @@
 <img align="right" alt="Coding" width="400" src="https://glasscodetech.com/img/Aboutus.gif">
 
 <p align="center">
-  🌱 Currently learning <strong>React</strong><br>
+  🌱 Currently learning <strong>MERN</strong><br>
   ⚡ Fun fact: <strong>Lavel Sabke Niklenge :)</strong>
 </p>
 

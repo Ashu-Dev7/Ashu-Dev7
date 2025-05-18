@@ -3,7 +3,7 @@
 <img align="right" alt="Coding" width="400" src="https://glasscodetech.com/img/Aboutus.gif">
 
 <p align="center">
-  🌱 Currently learning <strong><br>DevOps</strong><br>
+  🌱 Currently learning <strong>DevOps</strong><br>
   ⚡ Fun fact: <strong>Lavel Sabke Niklenge :)</strong>
 </p>
 

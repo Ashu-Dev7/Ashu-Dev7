@@ -1,14 +1,17 @@
 <h1 align="center">Hi 👋 I'm Ashutosh Mishra</h1>
 <h3 align="center">Tech Enthusiast from India</h3>
-<img align="right" alt="Coding" width="400" src="https://glasscodetech.com/img/Aboutus.gif">
+
+<p align="center">
+  <img src="https://glasscodetech.com/img/Aboutus.gif" alt="Coding" width="400" />
+</p>
 
 <p align="center">
   🌱 Currently learning <strong>DevOps</strong><br>
   ⚡ Fun fact: <strong>Lavel Sabke Niklenge :)</strong>
 </p>
 
-<h3>Languages and Tools:</h3>
-<p>
+<h3 align="center">Languages and Tools:</h3>
+<p align="center">
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/>
   </a>
